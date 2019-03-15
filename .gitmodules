@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/toddyamakawa/toddyamakawa.github.io
+[submodule "themes/orbit"]
+	path = themes/orbit
+	url = https://github.com/aerohub/hugo-orbit-theme
